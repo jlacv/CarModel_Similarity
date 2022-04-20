@@ -5,4 +5,4 @@
 
 ## Siamese Network architecture : 
 
-<img src="https://github.com/aymanemoataz/CarModel_Similarity/blob/main/output/One_Shot.png" width="520px" height="310px">
+<img src="https://github.com/aymanemoataz/CarModel_Similarity/blob/main/output/One_Shot.png" width="620px" height="210px">
